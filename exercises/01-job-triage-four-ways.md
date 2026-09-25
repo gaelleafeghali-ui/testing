@@ -29,10 +29,10 @@ Then you run the same test postings through each build and compare them. **That 
 
 **1. Google Drive**
 
-Create a folder called `Job triage` containing:
-- `Inbox/`: one Google Doc per job posting
-- `Drafts/`: empty for now, used in build C
-- A Google Sheet called `Job tracker` with columns `Date | Company | Role | Verdict | Reasons | Built by`. The last column records which build (A/B/C/D) made the row, so you can compare them later.
+Create a **folder** called `Job triage`. Inside it:
+- a **folder** called `Inbox`: you'll put one Google Doc per job posting in here
+- a **folder** called `Drafts`: leave it empty for now, it's used in build C
+- a Google Sheet called `Job tracker` with columns `Date | Company | Role | Verdict | Reasons | Built by`. The last column records which build (A/B/C/D) made the row, so you can compare them later.
 
 **2. Your criteria doc**
 
