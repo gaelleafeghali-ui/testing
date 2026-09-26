@@ -1,5 +1,7 @@
 # Exercise 01: Job posting triage, built four ways
 
+> **Latest version:** this exercise now lives as a doc with an added build (AI Agent inside n8n): https://claude.ai/code/artifact/21d7104c-3ab0-42e1-8322-e0430e114d37 — use the doc; this file is kept for history.
+
 **What you're learning:** how Claude builds automations and agents on its own, how n8n does the same job, how the two connect, and when to pick which.
 
 **The task:** you save job postings into a Google Drive folder. Something reads each one, compares it with what you're looking for, and decides **APPLY / MAYBE / SKIP**, with reasons. You build that four ways:
